@@ -1,0 +1,201 @@
+,Merchant Id,Annual Revenue (k$),Spending Score (1-100),City,Most Purchased Product,Repayment Score 1-5,city_numbers,Most Purchased Product_numbers,clusters_number,Cluster_Nature
+0,1,15,39,Mtwara,Mtindi 500ml,1,2,3,3,Careful
+1,2,15,81,Zanzibar City,Fresh Milk 250ml,2,3,1,1,General
+2,3,16,6,Mtwara,Mtindi 500ml,3,2,3,3,Careful
+3,4,16,77,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+4,5,17,40,Mtwara,Mtindi 500ml,2,2,3,3,Careful
+5,6,17,76,Zanzibar City,Fresh Milk 250ml,1,3,1,1,General
+6,7,18,6,Mtwara,Mtindi 500ml,2,2,3,3,Careful
+7,8,18,94,Zanzibar City,Fresh Milk 250ml,3,3,1,1,General
+8,9,19,3,Mtwara,Mtindi 500ml,1,2,3,3,Careful
+9,10,19,72,Zanzibar City,Fresh Milk 250ml,1,3,1,1,General
+10,11,19,14,Mtwara,Mtindi 500ml,1,2,3,3,Careful
+11,12,19,99,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+12,13,20,15,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+13,14,20,77,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+14,15,20,13,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+15,16,20,79,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+16,17,21,35,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+17,18,21,66,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+18,19,23,29,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+19,20,23,98,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+20,21,24,35,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+21,22,24,73,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+22,23,25,5,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+23,24,25,73,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+24,25,28,14,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+25,26,28,82,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+26,27,28,32,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+27,28,28,61,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+28,29,29,31,Mtwara,Mtindi 500ml,4,2,3,3,Careful
+29,30,29,87,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+30,31,30,4,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+31,32,30,73,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+32,33,33,4,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+33,34,33,92,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+34,35,33,14,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+35,36,33,81,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+36,37,34,17,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+37,38,34,73,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+38,39,37,26,Mtwara,Mtindi 500ml,5,2,3,3,Careful
+39,40,37,75,Zanzibar City,Fresh Milk 250ml,4,3,1,1,General
+40,41,38,35,Mtwara,Mtindi 500ml,4,2,3,3,Careful
+41,42,38,92,Zanzibar City,Fresh Milk 250ml,5,3,1,1,General
+42,43,39,36,Moshi,Fresh Milk 1ltr,5,1,0,3,Careful
+43,44,39,61,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+44,45,39,28,Moshi,Fresh Milk 1ltr,5,1,0,3,Careful
+45,46,39,65,Moshi,Fresh Milk 1ltr,4,1,0,1,General
+46,47,40,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+47,48,40,47,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+48,49,40,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+49,50,40,42,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+50,51,42,52,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+51,52,42,60,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+52,53,43,54,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+53,54,43,60,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+54,55,43,45,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+55,56,43,41,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+56,57,44,50,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+57,58,44,46,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+58,59,46,51,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+59,60,46,46,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+60,61,46,56,Moshi,Fresh Milk 1ltr,5,1,0,4,Spendthrift
+61,62,46,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+62,63,47,52,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+63,64,47,59,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+64,65,48,51,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+65,66,48,59,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+66,67,48,50,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+67,68,48,48,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+68,69,48,59,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+69,70,48,47,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+70,71,49,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+71,72,49,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+72,73,50,49,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+73,74,50,56,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+74,75,54,47,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+75,76,54,54,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+76,77,54,53,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+77,78,54,48,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+78,79,54,52,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+79,80,54,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+80,81,54,51,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+81,82,54,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+82,83,54,41,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+83,84,54,44,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+84,85,54,57,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+85,86,54,46,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+86,87,57,58,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+87,88,57,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+88,89,58,60,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+89,90,58,46,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+90,91,59,55,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+91,92,59,41,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+92,93,60,49,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+93,94,60,40,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+94,95,60,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+95,96,60,52,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+96,97,60,47,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+97,98,60,50,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+98,99,61,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+99,100,61,49,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+100,101,62,41,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+101,102,62,48,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+102,103,62,59,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+103,104,62,55,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+104,105,62,56,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+105,106,62,42,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+106,107,63,50,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+107,108,63,46,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+108,109,63,43,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+109,110,63,48,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+110,111,63,52,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+111,112,63,54,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+112,113,64,42,Moshi,Fresh Milk 1ltr,4,1,0,4,Spendthrift
+113,114,64,46,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+114,115,65,48,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+115,116,65,50,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+116,117,65,43,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+117,118,65,59,Moshi,Fresh Milk 1ltr,3,1,0,4,Spendthrift
+118,119,67,43,Dar es Salaam,Mtindi 250ml,3,0,2,4,Spendthrift
+119,120,67,57,Dar es Salaam,Mtindi 250ml,3,0,2,4,Spendthrift
+120,121,67,56,Dar es Salaam,Mtindi 250ml,3,0,2,4,Spendthrift
+121,122,67,40,Dar es Salaam,Mtindi 250ml,3,0,2,4,Spendthrift
+122,123,69,58,Dar es Salaam,Mtindi 250ml,4,0,2,4,Spendthrift
+123,124,69,91,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+124,125,70,29,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+125,126,70,77,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+126,127,71,35,Dar es Salaam,Mtindi 250ml,4,0,2,4,Spendthrift
+127,128,71,95,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+128,129,71,11,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+129,130,71,75,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+130,131,71,9,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+131,132,71,75,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+132,133,72,34,Dar es Salaam,Mtindi 250ml,3,0,2,4,Spendthrift
+133,134,72,71,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+134,135,73,5,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+135,136,73,88,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+136,137,73,7,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+137,138,73,73,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+138,139,74,10,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+139,140,74,72,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+140,141,75,5,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+141,142,75,93,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+142,143,76,40,Dar es Salaam,Mtindi 250ml,4,0,2,4,Spendthrift
+143,144,76,87,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+144,145,77,12,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+145,146,77,97,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+146,147,77,36,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+147,148,77,74,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+148,149,78,22,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+149,150,78,90,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+150,151,78,17,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+151,152,78,88,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+152,153,78,20,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+153,154,78,76,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+154,155,78,16,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+155,156,78,89,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+156,157,78,1,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+157,158,78,78,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+158,159,78,1,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+159,160,78,73,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+160,161,79,35,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+161,162,79,83,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+162,163,81,5,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+163,164,81,93,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+164,165,85,26,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+165,166,85,75,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+166,167,86,20,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+167,168,86,95,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+168,169,87,27,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+169,170,87,63,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+170,171,87,13,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+171,172,87,75,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+172,173,87,10,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+173,174,87,92,Dar es Salaam,Mtindi 250ml,3,0,2,0,Miser
+174,175,88,13,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+175,176,88,86,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+176,177,88,15,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+177,178,88,69,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+178,179,93,14,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+179,180,93,90,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+180,181,97,32,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+181,182,97,86,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+182,183,98,15,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+183,184,98,88,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+184,185,99,39,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+185,186,99,97,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+186,187,101,24,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+187,188,101,68,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+188,189,103,17,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+189,190,103,85,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+190,191,103,23,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+191,192,103,69,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+192,193,113,8,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+193,194,113,91,Dar es Salaam,Mtindi 250ml,5,0,2,0,Miser
+194,195,120,16,Dar es Salaam,Mtindi 250ml,5,0,2,2,Target
+195,196,120,79,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+196,197,126,28,Dar es Salaam,Mtindi 250ml,3,0,2,2,Target
+197,198,126,74,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
+198,199,137,18,Dar es Salaam,Mtindi 250ml,4,0,2,2,Target
+199,200,137,83,Dar es Salaam,Mtindi 250ml,4,0,2,0,Miser
